@@ -1,1 +1,1 @@
-# ArcoLinux-config-all-desktops
+# ArcoLinux-config
